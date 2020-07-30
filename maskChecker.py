@@ -6,8 +6,8 @@ import subprocess
 
 import cognitive_face as CF
 # faceAPIの設定
-KEY = 'fd43800969d8471c99d6eeabbe571875'
-BASE_URL = 'https://japaneast.api.cognitive.microsoft.com/face/v1.0'
+KEY = 'ここにキーを入れる'
+BASE_URL = 'ここにURLを入れる'
 
 CF.Key.set(KEY)
 CF.BaseUrl.set(BASE_URL)
